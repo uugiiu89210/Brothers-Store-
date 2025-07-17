@@ -1,5 +1,3 @@
-# Brothers-Store-
-Brothers Store Demo Site
 <!DOCTYPE html><html lang="mn">
 <head>
   <meta charset="UTF-8" />
